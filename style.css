@@ -1,0 +1,27 @@
+body{
+    background-color:  ivory;
+
+}
+h1{
+    color: saddlebrown;
+    font-weight: bold;
+}
+h2{
+    color: olive;
+}
+h3{
+    color: darkblue;
+}
+p{
+    color: darkcyan;
+}
+dd{
+    color: darkorange;
+}
+dt{
+    color: darkgoldenrod;
+}
+nav{
+    text-align: center;
+    font-size: medium;
+}
